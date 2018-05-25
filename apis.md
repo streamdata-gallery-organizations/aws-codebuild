@@ -1,37 +1,18 @@
 ---
-name: AWS CodeBuild
-x-slug: aws-codebuild
-description: AWS CodeBuild is a fully managed build service that compiles source code,
-  runs tests, and produces software packages that are ready to deploy. With CodeBuild,
-  you don&rsquo;t need to provision, manage, and scale your own build servers. CodeBuild
-  scales continuously and processes multiple builds concurrently, so your builds are
-  not left waiting in a queue. You can get started quickly by using prepackaged build
-  environments, or you can create custom build environments that use your own build
-  tools. With CodeBuild, you are charged by the minute for the compute resources you
-  use.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/code-build-console-icon.png
-x-kinRank: "10"
-x-alexaRank: ""
-tags: AWS CodeBuild
-created: "2018-05-24"
+name: Streadata.io API Gallery - AWS CodeBuild
+description: This is a repository of aws codebuild APIs, self-contained as a Github
+  repository, with HTML and YAML representations of the APIs and their surrounding
+  operations.
+image: http://template.streamdata.gallery/assets/aws-codebuild.png
+created: "2018-02-24"
 modified: "2018-05-24"
-url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-codebuild/master/_listings/aws-codebuild/apis.md
+url: http://aws-codebuild.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
-x-common:
-- type: x-command-line-interface
-  url: http://docs.aws.amazon.com/cli/latest/reference/codebuild/index.html
-- type: x-documentation
-  url: http://docs.aws.amazon.com/codebuild/latest/APIReference/Welcome.html
-- type: x-faq
-  url: https://aws.amazon.com/codebuild/faqs/
-- type: x-getting-started
-  url: https://aws.amazon.com/codebuild/getting-started/
-- type: x-pricing
-  url: https://aws.amazon.com/codebuild/pricing/
-- type: x-website
-  url: https://aws.amazon.com/codebuild/
-include: []
+tags: AWS CodeBuild
+include:
+- name: AWS CodeBuild
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-codebuild/master/_listings/aws-codebuild/apis.yaml
 maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist

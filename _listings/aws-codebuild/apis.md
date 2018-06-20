@@ -11,10 +11,10 @@ description: AWS CodeBuild is a fully managed build service that compiles source
   use.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/code-build-console-icon.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: AWS CodeBuild
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-codebuild/master/_listings/aws-codebuild/apis.md
 specificationVersion: "0.14"
 apis:
